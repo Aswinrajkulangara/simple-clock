@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.clock{
+    
+    color: yellow;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
